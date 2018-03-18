@@ -1,4 +1,4 @@
-#Python app structure example
+# Python app structure example
 
 ## Description
 
